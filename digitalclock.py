@@ -1,4 +1,3 @@
-'''Debargha Bhattacharjee NSEC CSE First year'''
 
 
 # Modules
